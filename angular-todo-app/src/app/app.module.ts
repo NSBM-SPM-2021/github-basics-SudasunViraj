@@ -24,7 +24,7 @@ import { ToolTipSingletonDirective } from './shared/tool-tip-singleton.directive
     AppRoutingModule,
     FormsModule,
     BrowserAnimationsModule,
-    MatDialogModule
+    MatDialogModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
