@@ -1,6 +1,8 @@
-# :wave: The Basics of GitHub 
+# :wave: **The Online Daily Tasks Management System**
+## Easy Todo 📝📝 
 
-## 🤓 Course overview and learning outcomes 
+### About 
+This is a simple Todo application created using Angular. Also, I have used Bulma Framework for create web interfaces and build some frontend components.
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
