@@ -13,20 +13,21 @@ This is a simple Todo application created using Angular. Basically, the Angular 
 
 ### User Stories
 
-### 1
-![image](https://user-images.githubusercontent.com/68943215/136898111-4ef0043c-63d8-4f83-9048-b8587cb93e9b.png)
+### 1.
+![Screenshot (248)](https://user-images.githubusercontent.com/68943215/136898522-8927a88c-2ec6-48e7-9226-6c19daffa2bc.png)
 
-### 2
-![image](https://user-images.githubusercontent.com/68943215/136898134-6bf614c4-f15e-41e5-84ee-c862552b8867.png)
+### 2.
+![Screenshot (249)](https://user-images.githubusercontent.com/68943215/136898575-84a8b71e-f652-4535-a846-c6221d22cd34.png)
 
-### 3
-![image](https://user-images.githubusercontent.com/68943215/136898154-569d3394-cab1-4350-9fa1-e813c4c24bba.png)
+### 3.
+![Screenshot (251)](https://user-images.githubusercontent.com/68943215/136898597-b3e0e574-2031-4ed6-9645-bc8b74d4bb5a.png)
 
-### 4
-![image](https://user-images.githubusercontent.com/68943215/136898214-7be3daa5-eb43-47b7-b88d-27b4cd8e8b61.png)
+### 4.
+![Screenshot (252)](https://user-images.githubusercontent.com/68943215/136898631-377e3491-b25e-49dc-bcc8-5871d8d8cecb.png)
 
-### 5
-![image](https://user-images.githubusercontent.com/68943215/136898243-ec153424-3564-48c4-b2bf-c204d364b87e.png)
+### 5.
+![Screenshot (253)](https://user-images.githubusercontent.com/68943215/136898665-1c5e28f5-7012-4347-ad13-b496ec377239.png)
+
 
 
 
