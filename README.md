@@ -26,6 +26,9 @@ This is a simple Todo application created using Angular. Basically, the Angular 
 ### 5.
 ![Screenshot (253)](https://user-images.githubusercontent.com/68943215/136898665-1c5e28f5-7012-4347-ad13-b496ec377239.png)
 
+### FRONT PAGE
+
+![Screenshot (238)](https://user-images.githubusercontent.com/68943215/136898973-b83ddc97-8c3a-4f00-be13-ec8c513f8fd7.png)
 
 
 
