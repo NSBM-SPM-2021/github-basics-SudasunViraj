@@ -9,7 +9,7 @@ This is a simple Todo application created using Angular. Basically, the Angular 
 ### User Story 1
 ![Screenshot (256)](https://user-images.githubusercontent.com/68943215/136897457-c364753e-d423-4c84-8e07-e8a71464d921.png)
 
-###User Story 2
+### User Story 2
 ![Screenshot (257)](https://user-images.githubusercontent.com/68943215/136897735-64221925-45fa-450b-a04c-7202ac79f073.png)
 
 ### User Story 3
